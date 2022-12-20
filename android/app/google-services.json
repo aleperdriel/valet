@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "466412328498",
+    "project_id": "valet-14501",
+    "storage_bucket": "valet-14501.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466412328498:android:0cfe595388fd68d90c0e2b",
+        "android_client_info": {
+          "package_name": "com.example.valet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466412328498-7mm3vmub3i1h502mkbagv9gkbs7g6g0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTIts4ktuPoK97QDDPNU0twbCu3iZXcqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466412328498-7mm3vmub3i1h502mkbagv9gkbs7g6g0d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "466412328498-objre894ra8f0m1m2ns36or8t62o0or2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.valet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

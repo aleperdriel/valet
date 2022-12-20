@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>466412328498-objre894ra8f0m1m2ns36or8t62o0or2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.466412328498-objre894ra8f0m1m2ns36or8t62o0or2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBzWWyCGNqEYNzbgnj7aTQW_9W3NKDqqbA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>466412328498</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.valet</string>
+	<key>PROJECT_ID</key>
+	<string>valet-14501</string>
+	<key>STORAGE_BUCKET</key>
+	<string>valet-14501.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:466412328498:ios:d677146f7abc6ec00c0e2b</string>
+</dict>
+</plist>
