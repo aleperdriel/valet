@@ -1,6 +1,9 @@
 # valet
 
-A new Flutter project.
+Discover the new parking app to make every drive easier!
+
+## Main features
+Find a parking by its name, select a duration for your parking booking, pay and all you still have to do is drive to your newly booked spot! 
 
 ## Getting Started
 
