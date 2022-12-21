@@ -1,74 +1,115 @@
 {
-    "items": [
-  {
-    "id": "1",
-    "name": "Parkings 1",
-    "fares": "from 3€/h",
-    "times": "Open (24/24h)",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/1022px-Placeholder_view_vector.svg.png"
-  },
-  {
-    "id": "2",
-    "name": "Parking 1",
-    "fares": "from 3€/h",
-    "times": "Open (24/24h)",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/1022px-Placeholder_view_vector.svg.png"
-  },
-  {
-    "id": "3",
-    "name": "Parking 1",
-    "fares": "from 3€/h",
-    "times": "Open (24/24h)",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/1022px-Placeholder_view_vector.svg.png"
-  },
-  {
-    "id": "4",
-    "name": "Parking 1",
-    "fares": "from 3€/h",
-    "times": "Open (24/24h)",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/1022px-Placeholder_view_vector.svg.png"
-  },
-  {
-    "id": "5",
-    "name": "Parking 1",
-    "fares": "from 3€/h",
-    "times": "Open (24/24h)",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/1022px-Placeholder_view_vector.svg.png"
-  },
-  {
-    "id": "6",
-    "name": "Parking 1",
-    "fares": "from 3€/h",
-    "times": "Open (24/24h)",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/1022px-Placeholder_view_vector.svg.png"
-  },
-  {
-    "id": "7",
-    "name": "Parking 1",
-    "fares": "from 3€/h",
-    "times": "Open (24/24h)",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/1022px-Placeholder_view_vector.svg.png"
-  },
-  {
-    "id": "8",
-    "name": "Parking 1",
-    "fares": "from 3€/h",
-    "times": "Open (24/24h)",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/1022px-Placeholder_view_vector.svg.png"
-  },
-  {
-    "id": "9",
-    "name": "Parking 1",
-    "fares": "from 3€/h",
-    "times": "Open (24/24h)",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/1022px-Placeholder_view_vector.svg.png"
-  },
-  {
-    "id": "10",
-    "name": "Parking 10",
-    "fares": "from 3€/h",
-    "times": "Open (24/24h)",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/1022px-Placeholder_view_vector.svg.png"
-  }
+  "items": [
+    {
+      "id": "1",
+      "name": "Parkings 1",
+      "fares": "from 3€/h",
+      "times": "Open (24/24h)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/1022px-Placeholder_view_vector.svg.png",
+      "address": "O'Connell Street Lower, North City, Dublin 1, Ireland",
+      "type": "Parking lot",
+      "phoneNumber": "+353 1 437 0969",
+      "distance": "162m"
+    },
+    {
+      "id": "2",
+      "name": "Parking 2",
+      "fares": "from 3€/h",
+      "times": "Open (24/24h)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/1022px-Placeholder_view_vector.svg.png",
+      "address": "O'Connell Street Lower, North City, Dublin 1, Ireland",
+      "type": "Parking lot",
+      "phoneNumber": "+353 1 437 0969"
+    },
+    {
+      "id": "3",
+      "name": "Parking 3",
+      "fares": "from 3€/h",
+      "times": "Open (24/24h)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/1022px-Placeholder_view_vector.svg.png",
+      "address": "O'Connell Street Lower, North City, Dublin 1, Ireland",
+      "type": "Parking lot",
+      "phoneNumber": "+353 1 437 0969"
+    },
+    {
+      "id": "4",
+      "name": "Parking 4",
+      "fares": "from 3€/h",
+      "times": "Open (24/24h)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/1022px-Placeholder_view_vector.svg.png",
+      "address": "O'Connell Street Lower, North City, Dublin 1, Ireland",
+      "type": "Parking lot",
+      "phoneNumber": "+353 1 437 0969"
+    },
+    {
+      "id": "5",
+      "name": "Parking 5",
+      "fares": "from 3€/h",
+      "times": "Open (24/24h)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/1022px-Placeholder_view_vector.svg.png",
+      "address": "O'Connell Street Lower, North City, Dublin 1, Ireland",
+      "type": "Parking lot",
+      "phoneNumber": "+353 1 437 0969"
+    },
+    {
+      "id": "6",
+      "name": "Parking 6",
+      "fares": "from 3€/h",
+      "times": "Open (24/24h)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/1022px-Placeholder_view_vector.svg.png",
+      "address": "O'Connell Street Lower, North City, Dublin 1, Ireland",
+      "type": "Parking lot",
+      "phoneNumber": "+353 1 437 0969"
+    },
+    {
+      "id": "7",
+      "name": "Parking 7",
+      "fares": "from 3€/h",
+      "times": "Open (24/24h)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/1022px-Placeholder_view_vector.svg.png",
+      "address": "O'Connell Street Lower, North City, Dublin 1, Ireland",
+      "type": "Parking lot",
+      "phoneNumber": "+353 1 437 0969"
+    },
+    {
+      "id": "8",
+      "name": "Parking 8",
+      "fares": "from 3€/h",
+      "times": "Open (24/24h)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/1022px-Placeholder_view_vector.svg.png",
+      "address": "O'Connell Street Lower, North City, Dublin 1, Ireland",
+      "type": "Parking lot",
+      "phoneNumber": "+353 1 437 0969"
+    },
+    {
+      "id": "9",
+      "name": "Parking 9",
+      "fares": "from 3€/h",
+      "times": "Open (24/24h)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/1022px-Placeholder_view_vector.svg.png",
+      "address": "O'Connell Street Lower, North City, Dublin 1, Ireland",
+      "type": "Parking lot",
+      "phoneNumber": "+353 1 437 0969"
+    },
+    {
+      "id": "10",
+      "name": "Parking 10",
+      "fares": "from 3€/h",
+      "times": "Open (24/24h)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/1022px-Placeholder_view_vector.svg.png",
+      "address": "O'Connell Street Lower, North City, Dublin 1, Ireland",
+      "type": "Parking lot",
+      "phoneNumber": "+353 1 437 0969"
+    },
+    {
+      "id": "11",
+      "name": "Parking final",
+      "fares": "from 3€/h",
+      "times": "Open (24/24h)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/1022px-Placeholder_view_vector.svg.png",
+      "address": "O'Connell Street Lower, North City, Dublin 1, Ireland",
+      "type": "Parking lot",
+      "phoneNumber": "+353 1 437 0969"
+    }
   ]
 }

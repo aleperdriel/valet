@@ -1,0 +1,23 @@
+{
+  "bookingsTitle": "Bookings",
+  "helpTitle": "Help",
+  "searchHint": "Parking's name",
+  "aroundMe": "Look around me",
+  "spotTitle": "Choose your spot",
+  "parkingDetailsTitle": "Parking Information",
+  "bookSectionTitle": "Réserver",
+  "bookButton": "Book my spot",
+  "timesSectionTitle": "Times",
+  "bookingsTitle": "My bookings",
+  "paymentTitle": "Booking",
+  "aboutVehicle": "About the vehicle",
+  "carPlate": "Car number plate",
+  "carModel": "Car model",
+  "payment": "Payment",
+  "cardNumber": "Card number",
+  "cardHolder": "Card holder",
+  "cardDate": "Expiration date",
+  "cardCode": "Card code",
+  "searchTitle": "Search",
+  "confirmedMsg": "Booking confirmed!"
+}

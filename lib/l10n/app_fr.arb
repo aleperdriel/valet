@@ -1,0 +1,23 @@
+{
+    "bookingsTitle": "Réservations",
+    "helpTitle": "Aide",
+    "aroundMe": "Autour de moi",
+    "searchHint": "Nom du parking",
+    "spotTitle": "Choisis ta place",
+    "parkingDetailsTitle": "Informations",
+    "bookSectionTitle": "Réserver",
+    "bookButton": "Réserver",
+    "timesSectionTitle": "Horaires",
+    "bookingsTitle": "Mes réservations",
+    "paymentTitle": "Réservation",
+    "aboutVehicle": "Informations du véhicule",
+    "carPlate": "Plaque d'immatriculation",
+    "carModel": "Modèle",
+    "payment": "Paiement",
+    "cardNumber": "Numéro de carte",
+    "cardHolder": "Nom",
+    "cardDate": "Date d'expiration",
+    "cardCode": "Cryptogramme visuel",
+    "searchTitle": "Chercher un parking",
+    "confirmedMsg": "Réservation confirmée !"
+}

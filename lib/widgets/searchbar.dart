@@ -1,26 +1,26 @@
+import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:flutter/material.dart';
 
-class SearchBar extends StatefulWidget {
-  SearchBar({super.key});
+typedef SearchCallback = void Function(String query);
 
-  @override
-  State<SearchBar> createState() => _SearchBarState();
+class SearchBar extends StatelessWidget {
+  const SearchBar({super.key, required this.onSearchChanged});
+  final SearchCallback onSearchChanged;
 
-  final _searchController = TextEditingController();
-}
-
-class _SearchBarState extends State<SearchBar> {
   @override
   Widget build(BuildContext context) {
+    var tr = AppLocalizations.of(context);
+
     return Column(
       children: [
         Container(
           margin: const EdgeInsetsDirectional.all(20),
           child: TextField(
-            controller: widget._searchController,
-            decoration: const InputDecoration(
-              suffixIcon: Icon(Icons.search),
-              border: OutlineInputBorder(),
+            onChanged: (value) => onSearchChanged(value.toLowerCase()),
+            decoration: InputDecoration(
+              hintText: tr!.searchHint,
+              suffixIcon: const Icon(Icons.search),
+              border: const OutlineInputBorder(),
             ),
           ),
         ),
